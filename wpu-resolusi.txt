@@ -3,4 +3,4 @@ mempelajari
 github
 api
 framework laravel
-bikin projek store
+belajar git
